@@ -1,21 +1,15 @@
-### Hi there 👋
-- 👋 My name is Bartosz Korec.
-- 🎓 I study Applied Computer Science at Cracow University of Technology.
-- 🌱 I’m currently learning Java.
-### Tools:
-<img src="images/Java_icon.png" width=50> <img src="images/IntelliJ_IDEA_Icon.png" width=50> <img src="images/Git_icon.png" width=50> <img src="images/GitHub_icon.png" width=50>
+<h1 align="center">Hello, I am Bartosz 👋</h1>
+- 🎓 I study Applied Computer Science at Cracow University of Technology. <br/>
+- 🌱 I’m currently learning Spring Boot. <br/>
+- 🔭 I’m currently working on my my engineering thesis
 
-<!--
-**BartoszKorec/BartoszKorec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Contact with me:</h3>
+<p align="left"><a href="https://www.linkedin.com/in/bartosz-korec03/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartosz-korec03" width="40" /><a></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="blank" rel ="noreferrer"> <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png" alt="IntelliJ IDEA logo." alt="intellij" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>
