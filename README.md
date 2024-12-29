@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I am Bartosz 👋</h1>
+<h1 align="left">Hello, I am Bartosz 👋</h1>
 - 🎓 I study Applied Computer Science at Cracow University of Technology. <br/>
 - 🌱 I’m currently learning Spring Boot. <br/>
 - 🔭 I’m currently working on my my engineering thesis
